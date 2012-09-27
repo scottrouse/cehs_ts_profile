@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CEHS Timesheet Profile feature.
+ */
+
+include_once 'cehs_ts_profile.features.inc';
